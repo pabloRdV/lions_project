@@ -1,1 +1,1 @@
-# lions_project
+GitHub repository for a project on blind fairness with LIONS.
